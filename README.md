@@ -62,3 +62,19 @@ In case a user cannot proceed (because rss restricts any movement), you might wa
 3. Clarify RSS Model Behavior
 4. Respawn user
 
+
+## Paper and Citations
+If you use the CARLA Demonstrator, please cite our AutoUI'23 paper.
+
+RSS Demonstrator: a Tool for User Experience Interactions with Automated Driving Safety Models [PDF] | [Poster]
+
+@inproceedings{Alvarez2023,
+  title = {{RSS Demonstrator}: a Tool for User Experience Interactions with Automated Driving Safety Models},
+  author = {Ignacio Alvarez and Bernd Gassmann and Frederik Pasch and Fabian Oboril},
+  booktitle = {Proceedings of the 15th Internacional ACM Conference Automotive User Interfaces},
+  publisher = {ACM},
+  address = {Ingolstadt, Germany},
+  pages = {},
+  year = {2023},
+  doi = {10.1145/3581961.3609894}
+}
