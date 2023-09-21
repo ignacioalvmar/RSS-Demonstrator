@@ -65,16 +65,24 @@ In case a user cannot proceed (because rss restricts any movement), you might wa
 
 ## Paper and Citations
 If you use the CARLA Demonstrator, please cite our AutoUI'23 paper.
+RSS Demonstrator: a Tool for User Experience Interactions with Automated Driving Safety Models [[PDF]([url](https://dl.acm.org/doi/pdf/10.1145/3581961.3609894))] | [Poster]
+Read the paper in [ACM Digital Library]([url](https://dl.acm.org/doi/10.1145/3581961.3609894))
 
-RSS Demonstrator: a Tool for User Experience Interactions with Automated Driving Safety Models [PDF] | [Poster]
 
-@inproceedings{Alvarez2023,
-  title = {{RSS Demonstrator}: a Tool for User Experience Interactions with Automated Driving Safety Models},
-  author = {Ignacio Alvarez and Bernd Gassmann and Frederik Pasch and Fabian Oboril},
-  booktitle = {Proceedings of the 15th Internacional ACM Conference Automotive User Interfaces},
-  publisher = {ACM},
-  address = {Ingolstadt, Germany},
-  pages = {},
-  year = {2023},
-  doi = {10.1145/3581961.3609894}
-}
+Cite it:
+@inproceedings{10.1145/3581961.3609894,
+    author = {Alvarez, Ignacio and Gassmann, Bernd and Pasch, Frederik and Oboril, Fabian},
+    title = {RSS Demonstrator: A Tool for User Experience Interactions with Automated Driving Safety Models},
+    year = {2023},
+    isbn = {9798400701122},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3581961.3609894},
+    doi = {10.1145/3581961.3609894},
+    booktitle = {Adjunct Proceedings of the 15th International Conference on Automotive User Interfaces and Interactive Vehicular Applications},
+    pages = {180–185},
+    numpages = {6},
+    keywords = {Safety, RSS, Automated Driving System, User Experience, Automated Driving Safety Model, Driving Simulation},
+    location = {Ingolstadt, Germany},
+    series = {AutomotiveUI '23 Adjunct}
+    }
